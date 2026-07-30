@@ -2,7 +2,7 @@ const bedrock = require('bedrock-protocol');
 
 const options = {
     host: 'Ysp25-nr9F.aternos.me',        
-    port: 31461,                            
+    port: '31461',                            
     username: 'MVKbot',                 
     version: '1.26.30',                     
     offline: true                           
