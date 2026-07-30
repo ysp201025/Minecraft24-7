@@ -4,12 +4,12 @@ const options = {
     host: 'Ysp25-nr9F.aternos.me',        
     port: 31461,                            
     username: 'MVKbot',                 
-    version: '1.26.33',                     
+    version: '1.26.30',                     
     offline: true                           
 };
 
 function createBot() {
-    console.log("جاري تشغيل البوت والاتصال بسيرفر بيدروك (إصدار 1.26.33)...");
+    console.log("جاري تشغيل البوت والاتصال بسيرفر بيدروك (إصدار 1.26.30)...");
 
     try {
         const client = bedrock.createClient(options);
